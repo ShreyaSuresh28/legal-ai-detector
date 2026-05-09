@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pymupdf
+sentence-transformers
+scikit-learn
+numpy
+python-multipart
+google-generativeai
